@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/notstormns/pipelines-java%20demo/_apis/build/status/pipelines-java%20demo-Maven-CI?branchName=master)](https://dev.azure.com/notstormns/pipelines-java%20demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
